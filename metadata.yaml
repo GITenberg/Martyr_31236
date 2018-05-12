@@ -1,0 +1,37 @@
+_repo: Martyr_31236
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31236-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nourse, Alan Edward
+    aliases:
+    - Edwards, Al
+    - Nourse, Alan E. (Alan Edward)
+    birthdate: 1928
+    deathdate: 1992
+    gutenberg_agent_id: '25579'
+    url: http://www.gutenberg.org/2009/agents/25579
+    wikipedia: http://en.wikipedia.org/wiki/Alan_E._Nourse
+description: Rejuvenation for the millions-or rejuvenation for the five hundred lucky
+  ones, the select ones, that can be treated each year? Tough, independent Senator
+  Dan Fowler fights a one-man battle against the clique that seeks perpetual power
+  and perpetual youth, in this hard-hitting novel by Alan E. Nourse. Why did it have
+  to be his personal fight? The others would fumble it-they'd foul it up, Fowler protested?
+  But why was he in the fight and what was to happen to Senator Fowler's fight against
+  this fantastic conspiracy? Who would win?
+gutenberg_issued: '2010-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Longevity -- Fiction'
+title: Martyr
+url: http://www.gutenberg.org/ebooks/31236
